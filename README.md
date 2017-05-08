@@ -18,7 +18,7 @@ Ideenmülleimer für das Komplexpraktikum Video
 - Fahrrad ohne Licht, ohne Klingel, ohne Bremsen (Umsetzun?! -> Zoom in?!), ohne Reflektoren,
 - Polizei: Fahrrad, Pferd, Auto
 - Umgebung: Straße, Baum, Kreuzung, Konsum(?!), Straßenlaterne -> DDR Stil, Ampel als Deko, 
-
+- Bierflasche, Handy, Kopfhörer, Joint?!
 
 ## Hausaufgabe bis 15.5:
 - ideen sammeln 
@@ -28,3 +28,4 @@ Ideenmülleimer für das Komplexpraktikum Video
 ## Ideen: 
 
 - Übersetzung der wichtigsten Worte in die 3 meistvertretenen Sprachen -> Kontakte des Netzwerks?!
+- Fahrradfahrer fährt betrunken/stoned in einen Bauzaun und wickelt sich in rot-weißes Absperrband ein -> keine Macht den Drogen!
