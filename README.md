@@ -10,3 +10,8 @@ Ideenmülleimer für das Komplexpraktikum Video
 # Bildelemente:
 
 - was brauchen wir?
+
+# Hausaufgabe:
+- ideen sammeln 
+- Gedanken machen 
+- Doku
