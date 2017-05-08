@@ -1,24 +1,30 @@
-# kp-minf
+# KP-Minf
 Ideenmülleimer für das Komplexpraktikum Video
 
-# Themen:
+## Themen:
 
 - Licht(pflicht)
 - Dinge die die Fahrtüchtigkeit beeinflussen (Alkohol, Drogen, Handy, Musik)
 - verkehrssichere Fahrradausstattung
 
-# Bildelemente:
+## Bildelemente:
+
+- 2d von der Seite!!
+
 
 - Fahrrad -> animiert
-- Figur mit Helm -> animiert
+- Fahrrad fährt Schlängellinien
+- Figur mit Helm -> animiert, Figur auf Drogen (grün angelaufen, Blasen überm kopf, taumelnd)
 - Fahrrad ohne Licht, ohne Klingel, ohne Bremsen (Umsetzun?! -> Zoom in?!), ohne Reflektoren,
+- Polizei: Fahrrad, Pferd, Auto
+- Umgebung: Straße, Baum, Kreuzung, Konsum(?!), Straßenlaterne -> DDR Stil, Ampel als Deko, 
 
 
-# Hausaufgabe:
+## Hausaufgabe bis 15.5:
 - ideen sammeln 
 - Gedanken machen 
 - Doku
 
-# Ideen: 
+## Ideen: 
 
 - Übersetzung der wichtigsten Worte in die 3 meistvertretenen Sprachen -> Kontakte des Netzwerks?!
