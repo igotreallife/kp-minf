@@ -15,7 +15,7 @@ Ideenmülleimer für das Komplexpraktikum Video
 - Fahrrad -> animiert
 - Fahrrad fährt Schlängellinien
 - Figur mit Helm -> animiert, Figur auf Drogen (grün angelaufen, Blasen überm kopf, taumelnd)
-- Fahrrad ohne Licht, ohne Klingel, ohne Bremsen (Umsetzun?! -> Zoom in?!), ohne Reflektoren,
+- Fahrrad ohne Licht, ohne Klingel, ohne Bremsen (Umsetzun?! -> Zoom in?!), ohne Reflektoren, ohne Reifenprofil
 - Polizei: Fahrrad, Pferd, Auto
 - Umgebung: Straße, Baum, Kreuzung, Konsum(?!), Straßenlaterne -> DDR Stil, Ampel als Deko, 
 - Bierflasche, Handy, Kopfhörer, Joint?!
