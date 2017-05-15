@@ -19,7 +19,7 @@ Ideenmülleimer für das Komplexpraktikum Video
 - Polizei: Fahrrad, Pferd, Auto
 - Umgebung: Straße, Baum, Kreuzung, Konsum(?!), Straßenlaterne -> DDR Stil, Ampel als Deko, 
 - Bierflasche, Handy, Kopfhörer, Joint?!
-- evtl. Auto Ansicht von Innnen (wenn der Fahrer nach Drausen schaut)
+- evtl. Auto Ansicht von Innnen (wenn der Fahrer nach Drausen schaut)(Deteils: Duftbaum)
 - Auto('s)
 
 ## Hausaufgabe bis 15.5:
