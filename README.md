@@ -37,3 +37,5 @@ Ideenmülleimer für das Komplexpraktikum Video
 - ohne Reifenprofil -> wegrutschen in einer Kurve, Nass, Schnee (bei Schnee: Fahradfahrer steckt im Schneehaufen Kopfüber)
 - ohne Klingel -> Menschengruppe, Mensch mit Hund (Leine übern gesamten Weg), Schafgruppe
 - ohne Bremsen -> Abhänge fahren,danach kommen Wände, Kurven, Bäume, Autos etc.
+- 90erjahre comicstil ->
+-- LICHT/: auto mit LICHT und fahrad ohne licht fahren auf Strase, sie kreuzen sich, szenenwechsel ins auto , autofahrer sieht das Fahrad nicht, strichelline (umrandung) wo eigentlich fahrrad sein sollte -> entweder zusammenstoSen (szenenwechsel nach ausen ) /-> (szenenwechsel nach ausen)oder fast zusammenstoSen und polizei kommt hinzu und bringt licht und reflektoren an (staub -puff -wolke) -> alle sind glücklich
