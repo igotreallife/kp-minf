@@ -37,21 +37,37 @@ Ideenmülleimer für das Komplexpraktikum Video
 - ohne Reifenprofil -> wegrutschen in einer Kurve, Nass, Schnee (bei Schnee: Fahradfahrer steckt im Schneehaufen Kopfüber)
 - ohne Klingel -> Menschengruppe, Mensch mit Hund (Leine übern gesamten Weg), Schafgruppe
 - ohne Bremsen -> Abhänge fahren,danach kommen Wände, Kurven, Bäume, Autos etc.
-- 90erjahre comicstil -> boom, krach ...
-## konkretetes:
-- grundsätlich hat der fahrradfahrer einen helm auf 
-- LICHT/: auto mit LICHT und fahrad ohne licht fahren auf Strase, sie kreuzen sich, szenenwechsel ins auto , autofahrer sieht das Fahrad nicht, strichelline (umrandung) wo eigentlich fahrrad sein sollte -> entweder zusammenstoSen (szenenwechsel nach ausen ) /-> (szenenwechsel nach ausen)oder fast zusammenstoSen und polizei kommt hinzu und bringt licht und reflektoren an (staub -puff -wolke) -> alle sind glücklich
-- ziehen: reflektoren und licht trennen
---> JAN
 
-- DROGEN: fahradfahrer fährt schlängellienen und landet im gebüsch, und kotzt dann danach, 
-fahrradfahrer: grün, bläschen, alkoholflasche, lallen -> polizei kommt vorbei und legen an   handschellen
-- musik-kopfhörer: krankenwagen überhören , crash -> in krankenwagen laden sofort
- -> zwei fahrradfahrer mit kopfhörer (mickymäuse)(musiknoten schwirren um den Kopf) und der andere ohne 
-, der ohne bremst als er den krankenwagen hört, der andere crasht mit dem zusammen und wird abtransportiert
---> ROBERT
+- 90erjahre comicstil -> boom, krach ...
+
+## konkretete Ideen:
+
+- grundsätlich hat der fahrradfahrer einen helm auf 
+
+- LICHT/Reflektoren: 
+    * auto mit LICHT und Fahrad ohne LICHT fahren auf einer Straße (Kreuzung), sie kreuzen sich
+    * Szenenwechsel ins Auto , Autofahrer sieht das Fahrad nicht(Aus der Perspektive des Autofahrers)
+    * Strichelline (Umrandung) wo eigentlich Fahrrad sein sollte
+    * -> entweder zusammenstoßen (szenenwechsel nach außen) 
+    * oder -> (szenenwechsel nach außen) oder fast zusammenstoSen und polizei kommt hinzu und bringt licht und reflektoren an (staub-puff        -wolke -> Fahrrad ist vollständig) -> alle sind glücklich
+         * in die Länge ziehen: Reflektoren und Licht trennen
+    * --> JAN
+
+- Fahrtüchtigkeit beeinflussen:
+    * DROGEN: 
+        * fahradfahrer fährt schlängellienen und landet im gebüsch, und kotzt dann danach
+            * fahrradfahrer: grün, bläschen, alkoholflasche, lallen 
+        * -> polizei kommt vorbei und legt dem Fahradfahrer Handschellen an
+    * Musik-Kopfhörer: krankenwagen überhören , crash -> in krankenwagen laden sofort
+        * -> zwei fahrradfahrer mit kopfhörer (mickymäuse)(musiknoten schwirren um den Kopf) und der andere ohne 
+        * der ohne bremst als er den krankenwagen hört, der andere crasht mit dem Krankenwagen zusammen und wird abtransportiert
+    * --> ROBERT
+    
 - AUSSTATTUNG: 
- -> ohne reifenprofil: regen nass, ausrutschen , rückspulen der SZENE , reifen profil ans fahrad bringen und die szene nochmal abspielen ohne das er ausruscht und normal weiter fahren kann
- -> ohne bremsen: berg runterfahren und in bauzaun reinkrachen und in absperrband verhäddern -> rückspulen und bremsen ansetzten mit bremse
- -> ohne klingel -> fahradfahrer fährt in schaffgruppe , kann nicht klingeln -> landet weich in der WOLLE/ oder in graben wegen ausweichen / oder in heuballen, mit klingel würden sie weichen
---> SARA
+    * ohne reifenprofil: 
+        * regen nass, ausrutschen , rückspulen der SZENE , reifen profil ans fahrad bringen und die szene nochmal abspielen ohne das er ausruscht und normal weiter fahren kann
+    * ohne bremsen: 
+        * berg runterfahren und in bauzaun reinkrachen und in absperrband verhäddern -> rückspulen und bremsen ansetzten mit bremse die Szene wiederholen und es passiert nichts Schlimmes
+    * ohne klingel:
+        * fahradfahrer fährt in schaffgruppe , kann nicht klingeln -> landet weich in der WOLLE/ oder in graben wegen ausweichen / oder in heuballen, mit klingel würden sie weichen
+    * --> SARA
