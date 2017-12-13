@@ -1,0 +1,27 @@
+Adobe After Effects v10.0.2 (Windows 64) Renderprotokoll für Projekt 'tolles_projekt_der_awesomeness.aep'
+
+Rendervorgang gestartet am 05.12.2017 um 14:09:26
+
+
+  05.12.2017 14:09:26: Komposition 'film' gestartet.
+
+
+  Speichern unter: Z:\Schreibtisch\KP-Video-17-18\Animationen\Licht\film.avi
+  
+  05.12.2017 14:17:21: Komposition 'film' beendet.
+
+
+
+  05.12.2017 14:17:21: Komposition 'film' gestartet.
+
+
+  Speichern unter: Z:\Schreibtisch\kp\licht\film.avi
+  
+  05.12.2017 14:23:51: Komposition 'film' beendet.
+
+
+
+  Bish. Renderz.: 14 Min., 25 Sek.
+
+Das Protokoll wurde am 05.12.2017 um 14:23:51 geschlossen.
+
